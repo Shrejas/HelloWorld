@@ -24,7 +24,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" red="0.29423215060000002" green="0.77734375" blue="0.78464302007299269" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.8941605839416058" green="0.77734375" blue="0.78464302007299269" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
